@@ -23,7 +23,7 @@ Ensure you have a web browser installed.
 ### Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-github-username/Ecstasy2025.git
+   git clone https://github.com/Naba321/Ecstasy2025.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
