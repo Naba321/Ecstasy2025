@@ -35,7 +35,7 @@ Ensure you have a web browser installed.
 For any queries, reach out to:
 - **Name**: Nabajit Das
 - **Email**: nabajitdas438@gmail.com
-- **GitHub**: https://github.com/Naba321
+- **GitHub**: [Naba321](https://github.com/Naba321)
 
 ---
 ⭐ Show some love by starring the repo if you like it!
