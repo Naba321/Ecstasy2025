@@ -13,6 +13,9 @@ This is the official  website for **Ecstasy 2025**, our college's annual cultura
 - **CSS3** - Styling and animations
 - **JavaScript** - Interactive elements
 
+## 🚀 Live Demo
+The website is live! Check it out here: [Ecstasy 2025](https://cit.ac.in/ecstasy2025/index.html)
+
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have a web browser installed.
